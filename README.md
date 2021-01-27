@@ -4,4 +4,4 @@ Python code to replicate impulse response analysis of Banbura et al. (Large Baye
 # Content
 1. olsvar.py - collection of routines for VAR estimation
 2. littBVAR.py - collection of routines specific to the large BVAR, dummy observations for the prior
-3. Plot_IRfs.py - script that produces plots of impulse responses (IRFs) of the SMALL, CEE and MEDIUM Vars from Banbura et al. and compares the IRFs to the OLS counterparts
+3. Plot_IRfs.py - script that determines the shrinkage parameter and produces plots of impulse responses (IRFs) of the SMALL, CEE and MEDIUM Vars from Banbura et al. and compares the IRFs to the OLS counterparts
