@@ -2,7 +2,7 @@
 
 Python implementation of the Large Bayesian VAR of Bańbura, Giannone & Reichlin (2010, *Journal of Applied Econometrics*), written from scratch with NumPy. The code replicates the paper's impulse responses to a monetary policy shock for the SMALL, CEE and MEDIUM specifications and compares them to OLS estimates.
 
-![Impulse responses: BVAR vs. OLS](IrfPlot_full.pdf)
+![Impulse responses: BVAR vs. OLS](irf_plot.pdf)
 
 *Responses of employment, CPI and the Federal Funds rate to a monetary policy shock. Dashed: BVAR (posterior median) with 68% / 90% bands. Red: OLS.*
 
